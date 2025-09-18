@@ -1,0 +1,13 @@
+{
+  "name": "matrix-ci",
+  "version": "1.0.0",
+  "description": "Demo Node.js project for matrix CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0",
+    "build": "mkdir -p dist && echo Build complete > dist/README.txt"
+  },
+  "author": "bilal059",
+  "license": "MIT"
+}
+
