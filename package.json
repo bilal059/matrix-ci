@@ -8,6 +8,17 @@
     "build": "mkdir -p dist && echo Build complete > dist/README.txt"
   },
   "author": "bilal059",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilal059/matrix-ci.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bilal059/matrix-ci/issues"
+  },
+  "homepage": "https://github.com/bilal059/matrix-ci#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
-
